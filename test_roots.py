@@ -1,4 +1,3 @@
-%%file test_roots.py
 import pytest
 import roots
 
